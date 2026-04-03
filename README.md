@@ -19,3 +19,5 @@ Business-focused GitHub Pages package.
    - .nojekyll
 5. Commit changes.
 6. Wait about 1 minute and refresh your site.
+
+- Professional copyright footer added
