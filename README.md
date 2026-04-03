@@ -1,19 +1,21 @@
 # Dazz Media LK Portfolio
 
-This package is ready for GitHub Pages.
+Business-focused GitHub Pages package.
 
-## Files
-- index.html
-- styles.css
-- .nojekyll
+## Updated focus
+- Intro emphasizes advertisement edits and promotional videos
+- Stronger messaging for businesses, brands, promotions, and life events
+- Creative anime / movie / TV edit section kept lower on the page
+- Contact and social links included
 
-## Publish on GitHub Pages
-1. Create a new public repository on GitHub.
-2. Upload all files from this folder to the repository root.
-3. Open Settings > Pages.
-4. Under Build and deployment choose:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: / (root)
-5. Save and wait a minute.
-6. Your site link will appear in the Pages section.
+## Publish
+1. Extract this zip.
+2. Open your GitHub repository.
+3. Go to the Code tab.
+4. Upload these files to the repository root:
+   - index.html
+   - styles.css
+   - README.md
+   - .nojekyll
+5. Commit changes.
+6. Wait about 1 minute and refresh your site.
