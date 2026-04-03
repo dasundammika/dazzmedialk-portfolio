@@ -3,10 +3,10 @@
 Business-focused GitHub Pages package.
 
 ## Updated focus
+- Life Event Edits removed
+- Added Instant Attention Hooks
 - Intro emphasizes advertisement edits and promotional videos
-- Stronger messaging for businesses, brands, promotions, and life events
 - Creative anime / movie / TV edit section kept lower on the page
-- Contact and social links included
 
 ## Publish
 1. Extract this zip.
